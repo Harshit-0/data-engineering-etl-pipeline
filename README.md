@@ -24,3 +24,10 @@ Netflix Movies and TV Shows dataset in CSV format.
 ## How to Run
 ```bash
 python scripts/etl.py
+```
+## SQL Analysis
+Performed analytical queries on the processed Netflix dataset using SQL, including:
+- Content distribution by type
+- Country-wise content analysis
+- Release year filtering
+- Rating-based aggregation
